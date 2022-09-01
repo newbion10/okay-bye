@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pink_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pink_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pink_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pink_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pink_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinkpanther",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pink",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		144,
+		190
+	],
+	"camera_position": [
+		10,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
