@@ -1,0 +1,32 @@
+{
+	"storyName": "The Pink Panther Show 1969",
+	"difficulties": "pink",
+	"hideFreeplay": false,
+	"weekBackground": "pinkhouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pink-funkin",
+			"pink",
+			[
+				250,
+				144,
+				190
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pinkpanther"
+}
